@@ -1,0 +1,11 @@
+{
+  "token": "NTg5MjA3NjU0MjEyMzA0ODk3.XQVfvA.0OWzpSpqyi9dpGbzL_kLkno-Pms",
+  "prefix": "!",
+  "logsChannel": "logs",
+  "reportsChannel": "reports",
+
+  "activity": {
+    "streaming": false,
+    "game": "Minekwaft"
+  }
+}
